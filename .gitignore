@@ -1,0 +1,6 @@
+# Local source material and QA artifacts are not part of the public site.
+CODEX-PROMPT.txt
+portfolio-source.md
+START-HERE.txt
+portfolio-github-pages.zip
+qa/
