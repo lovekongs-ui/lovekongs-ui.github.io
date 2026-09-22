@@ -8,6 +8,7 @@ HTML·CSS·JavaScript로 동작하는 정적 사이트입니다. 외부 폰트·
 - `아가미로고.png`: AGAMI 프로젝트 로고입니다.
 - `시연영상_아가미.mp4`: AGAMI 실제 서비스 시연 영상입니다.
 - `portfolio-preview.png`: 링크 공유 시 표시되는 포트폴리오 첫 화면 미리보기입니다.
+- `output/pdf/Kim-Seoyeon-AIML-Portfolio.pdf`: 제출용 A4 가로형 10페이지 포트폴리오입니다. PDF 안의 링크로 웹 포트폴리오, 프로젝트, AGAMI 서비스·시연 영상과 연락처를 열 수 있습니다.
 - `README.md`: 이 안내서. 함께 업로드해도 됩니다.
 - `.nojekyll`: Jekyll 처리를 건너뛰는 빈 파일. 함께 업로드하는 것을 권장합니다.
 
@@ -16,6 +17,8 @@ HTML·CSS·JavaScript로 동작하는 정적 사이트입니다. 외부 폰트·
 ## GitHub에 직접 업로드하고 Pages 설정하기
 
 공개 사이트: https://lovekongs-ui.github.io/ · 저장소: https://github.com/lovekongs-ui/lovekongs-ui.github.io
+
+제출용 PDF: https://lovekongs-ui.github.io/output/pdf/Kim-Seoyeon-AIML-Portfolio.pdf
 
 2026-09-22에 GitHub 공식 안내를 확인했습니다. 현재 사이트는 `main` 브랜치의 루트에서 게시됩니다. 아래는 직접 다시 업로드하거나 별도 저장소를 만들 때의 안내입니다.
 
