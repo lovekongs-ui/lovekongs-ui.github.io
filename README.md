@@ -7,6 +7,7 @@ HTML·CSS·JavaScript로 동작하는 정적 사이트입니다. 외부 폰트·
 - `index.html`: 실제 사이트. 파일명은 소문자로 유지합니다.
 - `아가미로고.png`: AGAMI 프로젝트 로고입니다.
 - `시연영상_아가미.mp4`: AGAMI 실제 서비스 시연 영상입니다.
+- `portfolio-preview.png`: 링크 공유 시 표시되는 포트폴리오 첫 화면 미리보기입니다.
 - `README.md`: 이 안내서. 함께 업로드해도 됩니다.
 - `.nojekyll`: Jekyll 처리를 건너뛰는 빈 파일. 함께 업로드하는 것을 권장합니다.
 
